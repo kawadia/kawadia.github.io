@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Vikas Kawadia's Blog"
 date:   2015-05-12 15:10:00
-categories: jekyll test
+categories: test
 ---
 
 Jekyll + github pages seems like a great way to maintain a blog, at least from
